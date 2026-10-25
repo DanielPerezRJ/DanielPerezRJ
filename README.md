@@ -23,8 +23,8 @@
 <!-- ACCESOS RÁPIDOS (EDITAR: reemplaza TU-PERFIL y TU-CORREO) -->
 <div align="center">
   <a href="https://danielperezrj.github.io"><img src="https://img.shields.io/badge/Portafolio-4F9CFF?style=for-the-badge&logoColor=white" alt="Portafolio" /></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-perez-rojel-5794b23a8/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:danieleduardoperezrojel@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/daniel-perez-rojel-5794b23a8/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="danieleduardoperezrojel@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 <br>
@@ -97,8 +97,8 @@
 
 <!-- EDITAR: reemplaza TU-PERFIL y TU-CORREO -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-perez-rojel-5794b23a8/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:danieleduardoperezrojel@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/daniel-perez-rojel-5794b23a8/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="danieleduardoperezrojel@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://danielperezrj.github.io"><img src="https://img.shields.io/badge/Portafolio-4F9CFF?style=for-the-badge&logoColor=white" alt="Portafolio" /></a>
 </div>
 
